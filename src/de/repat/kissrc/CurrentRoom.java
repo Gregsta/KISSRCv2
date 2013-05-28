@@ -19,6 +19,13 @@ public class CurrentRoom {
         return instance;
     }
 
+    public static RoomEnum getRoom() {
+        if (instance == null) {
+            instance = new CurrentRoom();
+        }
+        return instance.getRoomEnum();
+    }
+
     public RoomEnum getRoomEnum() {
         return this.roomEnum;
     }
