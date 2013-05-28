@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KISSRC</string>
+    <string name="action_settings">Settings</string>
+    <string name="Lounge">Lounge</string>
+    <string name="KitchenCooking">Kitchen Cooking</string>
+    <string name="KitchenMain">Kitchen Main</string>
+    <string name="Dining">Dining</string>
+    <string name="Corridor">Corridor</string>
+    <string name="Sleeping">Sleeping</string>
+    <string name="Bathroom">Bathroom</string>
+
+</resources>
